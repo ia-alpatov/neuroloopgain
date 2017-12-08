@@ -15,6 +15,6 @@
     <tags>EEG EDF EDF+ EDFPlus</tags>
   </metadata>
 <dependencies>
-    <package id="NLog" />
+    <dependency id="NLog" />
 </dependencies>
 </package>
