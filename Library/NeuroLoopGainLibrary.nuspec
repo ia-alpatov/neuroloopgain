@@ -13,8 +13,9 @@
     <releaseNotes>Update.</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>EEG EDF EDF+ EDFPlus</tags>
-  </metadata>
 <dependencies>
     <dependency id="NLog" version="4.4.12" />
 </dependencies>
+
+  </metadata>
 </package>
