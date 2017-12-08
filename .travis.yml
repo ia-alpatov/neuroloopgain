@@ -1,0 +1,12 @@
+language: csharp
+solution: NeuroLoopGain.sln
+install:
+  - nuget restore NeuroLoopGain.sln
+script:
+  - xbuild NeuroLoopGain.sln /p:TargetFrameworkVersion="v4.0" /p:Configuration=Release 
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: chmod +x ./deploy/deploy.sh && ./deploy/deploy.sh $NUGET_API_KEY $NUGET_SOURCE
+  on:
+    branch: master
