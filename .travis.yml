@@ -1,4 +1,6 @@
 language: csharp
+mono:
+  - alpha
 solution: NeuroLoopGain.sln
 install:
   - nuget restore NeuroLoopGain.sln
