@@ -4,7 +4,7 @@
     <id>NeuroLoopGainLibrary</id>
     <version>1.0</version>
     <title>NeuroLoopGainLibrary</title>
-    <authorsBob Kemp, Marco Roessen, Olimzhon Iuldashov</authors>
+    <authors>Bob Kemp, Marco Roessen, Olimzhon Iuldashov</authors>
     <owners>Olimzhon Iuldashov</owners>
     <licenseUrl>https://github.com/oiuldashov/neuroloopgain/blob/master/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/oiuldashov/neuroloopgain/</projectUrl>
