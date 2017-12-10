@@ -2,14 +2,14 @@
 <package >
   <metadata>
     <id>NeuroLoopGainLibrary</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <title>NeuroLoopGainLibrary</title>
     <authors>Bob Kemp, Marco Roessen, Olimzhon Iuldashov</authors>
     <owners>Olimzhon Iuldashov</owners>
     <licenseUrl>https://github.com/oiuldashov/neuroloopgain/blob/master/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/oiuldashov/neuroloopgain/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>EDF/EDF+ reader library - NeuroloopGain</description>
+    <description>EDF/EDF+ reader library - NeuroLoopGain</description>
     <releaseNotes>Update.</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>EEG EDF EDF+ EDFPlus</tags>

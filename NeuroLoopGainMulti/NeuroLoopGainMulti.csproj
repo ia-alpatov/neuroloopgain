@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net4;net45;net452;net46;netstandard2.0;netcoreapp2.0</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
+    <Version>1.1.0</Version>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageId>NeuroLoopGain</PackageId>
+    <Description></Description>
+    <PackageTags>EEG EDF EDF+ EDFPlus</PackageTags>
+    <Copyright>Olimzhon Iuldashov</Copyright>
+    <PackageReleaseNotes>Update.</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/oiuldashov/neuroloopgain/</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/oiuldashov/neuroloopgain/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/oiuldashov/neuroloopgain/</RepositoryUrl>
+    <Product>NeuroLoopGainLibrary</Product>
+    <Authors>Bob Kemp, Marco Roessen, Olimzhon Iuldashov</Authors>
+    <Company />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="4.4.12" />
+  </ItemGroup>
+
+  
+</Project>
